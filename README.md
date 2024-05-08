@@ -3,6 +3,10 @@ This is a Tampermonkey script designed to automatically extract primer data from
 
 这是一个用于自动提取NCBI Primer-BLAST结果中的引物数据，并将其导出为Excel文件的油猴脚本。
 
+<img src="fig/primer.gif" width="700">
+
+
+
 ## Language / 语言
 - [English](#english)
 - [中文](#chinese)
@@ -42,10 +46,7 @@ ___这是一个用于自动提取NCBI Primer-BLAST结果中的引物数据，并
 - 在 Tampermonkey 中创建一个新脚本，将脚本复制粘贴进去。或者从 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/494245-ncbi-primer-data-extractor-and-exporter) 直接安装脚本。
 - 访问 [NCBI Primer-BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)，进行引物设计。
 - 设计完成后，点击页面上的“Export to Excel”按钮，引物数据将被导出为Excel文件。
- <img src="fig/fig2.png" width="500">
-
-- 表格文件如下。PaidID相同的为配对引物。
- <img src="fig/fig4.png" width="500">
+   
 
 ### 如何贡献
 如果您有任何改进意见或功能添加的想法，请访问我的 [github](https://github.com/Xiang-yuZHAO/NCBI-Primer-Data-Extractor-and-Exporter) 并通过以下方式贡献：
